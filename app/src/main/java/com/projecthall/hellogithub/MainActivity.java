@@ -12,6 +12,8 @@ public class MainActivity extends ActionBarActivity {
     // ....
     // ....
 
+    // CHANGE TWO
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
