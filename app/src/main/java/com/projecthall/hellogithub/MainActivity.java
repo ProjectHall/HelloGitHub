@@ -8,11 +8,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
-    // ADD NEW FEATURES HERE:
-    // ....
-    // ....
-
-    // CHANGE TWO
+    // David made a change 04/12
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
